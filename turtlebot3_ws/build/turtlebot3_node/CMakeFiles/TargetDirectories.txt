@@ -1,0 +1,11 @@
+/home/tema/turtlebot3_ws/build/turtlebot3_node/CMakeFiles/install/strip.dir
+/home/tema/turtlebot3_ws/build/turtlebot3_node/CMakeFiles/install/local.dir
+/home/tema/turtlebot3_ws/build/turtlebot3_node/CMakeFiles/install.dir
+/home/tema/turtlebot3_ws/build/turtlebot3_node/CMakeFiles/list_install_components.dir
+/home/tema/turtlebot3_ws/build/turtlebot3_node/CMakeFiles/rebuild_cache.dir
+/home/tema/turtlebot3_ws/build/turtlebot3_node/CMakeFiles/edit_cache.dir
+/home/tema/turtlebot3_ws/build/turtlebot3_node/CMakeFiles/test.dir
+/home/tema/turtlebot3_ws/build/turtlebot3_node/CMakeFiles/turtlebot3_ros.dir
+/home/tema/turtlebot3_ws/build/turtlebot3_node/CMakeFiles/turtlebot3_node_lib.dir
+/home/tema/turtlebot3_ws/build/turtlebot3_node/CMakeFiles/turtlebot3_node_uninstall.dir
+/home/tema/turtlebot3_ws/build/turtlebot3_node/CMakeFiles/uninstall.dir

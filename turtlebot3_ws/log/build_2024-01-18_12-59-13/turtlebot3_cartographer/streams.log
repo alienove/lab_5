@@ -1,0 +1,48 @@
+[0.311s] Invoking command in '/home/tema/turtlebot3_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/tema/turtlebot3_ws/src/turtlebot3/turtlebot3_cartographer -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tema/turtlebot3_ws/install/turtlebot3_cartographer
+[0.492s] -- The C compiler identification is GNU 9.4.0
+[0.640s] -- The CXX compiler identification is GNU 9.4.0
+[0.648s] -- Check for working C compiler: /usr/bin/cc
+[0.756s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.758s] -- Detecting C compiler ABI info
+[0.845s] -- Detecting C compiler ABI info - done
+[0.855s] -- Detecting C compile features
+[0.856s] -- Detecting C compile features - done
+[0.859s] -- Check for working CXX compiler: /usr/bin/c++
+[0.973s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.974s] -- Detecting CXX compiler ABI info
+[1.128s] -- Detecting CXX compiler ABI info - done
+[1.140s] -- Detecting CXX compile features
+[1.141s] -- Detecting CXX compile features - done
+[1.148s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.224s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.224s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.469s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.633s] -- Configuring done
+[1.635s] -- Generating done
+[1.636s] -- Build files have been written to: /home/tema/turtlebot3_ws/build/turtlebot3_cartographer
+[1.643s] Invoked command in '/home/tema/turtlebot3_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/tema/turtlebot3_ws/src/turtlebot3/turtlebot3_cartographer -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tema/turtlebot3_ws/install/turtlebot3_cartographer
+[1.643s] Invoking command in '/home/tema/turtlebot3_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/tema/turtlebot3_ws/build/turtlebot3_cartographer -- -j6 -l6
+[1.776s] Invoked command in '/home/tema/turtlebot3_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/tema/turtlebot3_ws/build/turtlebot3_cartographer -- -j6 -l6
+[1.869s] Invoking command in '/home/tema/turtlebot3_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/tema/turtlebot3_ws/build/turtlebot3_cartographer
+[1.880s] -- Install configuration: ""
+[1.881s] -- Execute custom install script
+[1.883s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua
+[1.890s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/cartographer.launch.py
+[1.908s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/occupancy_grid.launch.py
+[1.908s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz/tb3_cartographer.rviz
+[1.915s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/package_run_dependencies/turtlebot3_cartographer
+[1.926s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/parent_prefix_path/turtlebot3_cartographer
+[1.942s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.sh
+[1.967s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.dsv
+[1.995s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.sh
+[2.030s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.dsv
+[2.058s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.bash
+[2.100s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.sh
+[2.139s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.zsh
+[2.177s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.dsv
+[2.203s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.dsv
+[2.242s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/packages/turtlebot3_cartographer
+[2.272s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig.cmake
+[2.306s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig-version.cmake
+[2.340s] -- Symlinking: /home/tema/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.xml
+[2.406s] Invoked command in '/home/tema/turtlebot3_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/tema/turtlebot3_ws/build/turtlebot3_cartographer

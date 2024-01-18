@@ -1,0 +1,28 @@
+[1.083s] Invoking command in '/home/tema/turtlebot3_ws/build/turtlebot3_example': AMENT_PREFIX_PATH=/home/tema/turtlebot3_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/tema/turtlebot3_ws/install/turtlebot3_msgs LD_LIBRARY_PATH=/home/tema/turtlebot3_ws/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/tema/turtlebot3_ws/build/turtlebot3_example/prefix_override:/home/tema/turtlebot3_ws/install/turtlebot3_example/lib/python3.8/site-packages:/home/tema/turtlebot3_ws/install/turtlebot3_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/tema/turtlebot3_ws/build/turtlebot3_example/build --no-deps install_data
+[1.326s] running develop
+[1.492s] running egg_info
+[1.492s] creating turtlebot3_example.egg-info
+[1.492s] writing turtlebot3_example.egg-info/PKG-INFO
+[1.493s] writing dependency_links to turtlebot3_example.egg-info/dependency_links.txt
+[1.493s] writing entry points to turtlebot3_example.egg-info/entry_points.txt
+[1.493s] writing requirements to turtlebot3_example.egg-info/requires.txt
+[1.493s] writing top-level names to turtlebot3_example.egg-info/top_level.txt
+[1.494s] writing manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[1.524s] reading manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[1.525s] writing manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[1.561s] running build_ext
+[1.561s] Creating /home/tema/turtlebot3_ws/install/turtlebot3_example/lib/python3.8/site-packages/site.py
+[1.563s] Creating /home/tema/turtlebot3_ws/install/turtlebot3_example/lib/python3.8/site-packages/turtlebot3-example.egg-link (link to .)
+[1.564s] Installing turtlebot3_obstacle_detection script to /home/tema/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.564s] Installing turtlebot3_patrol_client script to /home/tema/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.564s] Installing turtlebot3_patrol_server script to /home/tema/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.564s] Installing turtlebot3_position_control script to /home/tema/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.564s] 
+[1.564s] Installed /home/tema/turtlebot3_ws/build/turtlebot3_example
+[1.564s] running install_data
+[1.564s] creating /home/tema/turtlebot3_ws/install/turtlebot3_example/share/ament_index
+[1.564s] creating /home/tema/turtlebot3_ws/install/turtlebot3_example/share/ament_index/resource_index
+[1.564s] creating /home/tema/turtlebot3_ws/install/turtlebot3_example/share/ament_index/resource_index/packages
+[1.564s] copying resource/turtlebot3_example -> /home/tema/turtlebot3_ws/install/turtlebot3_example/share/ament_index/resource_index/packages
+[1.565s] copying package.xml -> /home/tema/turtlebot3_ws/install/turtlebot3_example/share/turtlebot3_example
+[1.611s] Invoked command in '/home/tema/turtlebot3_ws/build/turtlebot3_example' returned '0': AMENT_PREFIX_PATH=/home/tema/turtlebot3_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/tema/turtlebot3_ws/install/turtlebot3_msgs LD_LIBRARY_PATH=/home/tema/turtlebot3_ws/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/tema/turtlebot3_ws/build/turtlebot3_example/prefix_override:/home/tema/turtlebot3_ws/install/turtlebot3_example/lib/python3.8/site-packages:/home/tema/turtlebot3_ws/install/turtlebot3_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/tema/turtlebot3_ws/build/turtlebot3_example/build --no-deps install_data
